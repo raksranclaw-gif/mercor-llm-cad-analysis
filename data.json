@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Software Expert (CAD and Engineering)",
+    "url": "https://work.mercor.com/jobs/list_AAABnCtxjHBuwvPhptxJ3LRy/software-expert-cad-and-engineering",
+    "pay_range": "$0-$100 / hr",
+    "tasks": [
+      "Record screen sessions demonstrating specific tasks with verbal narration",
+      "Annotate screenshots of professional software (bounding boxes)",
+      "Set up specific UI states",
+      "Use custom capture tool to record workflows"
+    ],
+    "tools": ["AutoCAD Mechanical", "SolidWorks", "Inventor", "Vivado"],
+    "evidence": "High-priority data collection initiative to improve AI understanding of complex software interfaces and multi-step workflows."
+  },
+  {
+    "title": "CAD tools Expert",
+    "url": "https://work.mercor.com/jobs/list_AAABl0B_cbeE85ZPYS5KeIK7/cad-tools-expert",
+    "pay_range": "$30-$60 / hr",
+    "tasks": [
+      "Analyze, evaluate and enhance workflows used to train AI models",
+      "Graphic designing, photo editing, and engineering design tasks",
+      "Evaluate workflows step-by-step to improve usability and realism"
+    ],
+    "tools": ["AutoCAD", "SolidWorks"],
+    "evidence": "Work with leading AI labs to push the boundaries of frontier AI models."
+  },
+  {
+    "title": "Engineering Expert (PhD, Master's, or Olympiad Participants)",
+    "url": "https://work.mercor.com/jobs/list_AAABmlxxj_LvPsgWVJlNdpT1/engineering-expert-phd-master-s-or-olympiad-participants",
+    "pay_range": "$60-$80 / hr",
+    "tasks": [
+      "Design original, advanced engineering problems to challenge AI models",
+      "Evaluate AI-generated engineering solutions for accuracy and constraints",
+      "Identify logical gaps and modeling assumptions",
+      "Provide solutions in LaTeX"
+    ],
+    "tools": ["LaTeX", "Analytical problem design"],
+    "evidence": "Collaborating with leading AI research lab to advance engineering problem-solving at the frontier of AI."
+  },
+  {
+    "title": "Expert Model Trainer",
+    "url": "https://work.mercor.com/jobs/list_AAABlRvLjyMZ_QjpNyhB6r5E/expert-model-trainer",
+    "pay_range": "$50-$140 / hr",
+    "tasks": [
+      "Contribute to projects helping build cutting edge AI products",
+      "Analyze complex information, synthesize insights",
+      "Domain expertise contribution (PhD, Law, Medicine, etc.)"
+    ],
+    "tools": ["Research skills"],
+    "evidence": "Mercor partners with leading AI labs to train frontier models using human expertise."
+  },
+  {
+    "title": "Generalist Expert (Reddit Data)",
+    "url": "https://www.reddit.com/r/mercor_ai/comments/1q1evs6/ai_training_projects/",
+    "pay_range": "$16 / hr",
+    "tasks": [
+      "Writing/General tasks",
+      "20 hours project"
+    ],
+    "tools": ["Writing"],
+    "evidence": "Low-tier generalist work paid significantly less than specialized engineering experts."
+  }
+]
