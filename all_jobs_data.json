@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Management & Strategy Consultants",
+    "industry": "Consulting",
+    "date": "2026-06-01",
+    "pay": 100
+  },
+  {
+    "title": "CUDA Engineering Expert",
+    "industry": "Software Engineering",
+    "date": "2026-06-03",
+    "pay": 100
+  },
+  {
+    "title": "Biology PhD Expert",
+    "industry": "Science/Healthcare",
+    "date": "2026-05-20",
+    "pay": 115
+  },
+  {
+    "title": "Biology Research Scientist",
+    "industry": "Science/Healthcare",
+    "date": "2026-06-01",
+    "pay": 60
+  },
+  {
+    "title": "Equity Research Expert",
+    "industry": "Finance",
+    "date": "2026-05-25",
+    "pay": 120
+  },
+  {
+    "title": "Gamers",
+    "industry": "General/Entertainment",
+    "date": "2026-05-15",
+    "pay": 13
+  },
+  {
+    "title": "Legal Expert \u2014 Transactional",
+    "industry": "Legal",
+    "date": "2026-05-28",
+    "pay": 125
+  },
+  {
+    "title": "Simulated Research Reviewer",
+    "industry": "Engineering",
+    "date": "2026-06-02",
+    "pay": 70
+  },
+  {
+    "title": "Private Equity Expert",
+    "industry": "Finance",
+    "date": "2026-05-10",
+    "pay": 130
+  },
+  {
+    "title": "Cardiology Expert",
+    "industry": "Science/Healthcare",
+    "date": "2026-05-12",
+    "pay": 155
+  },
+  {
+    "title": "Internal Medicine Expert",
+    "industry": "Science/Healthcare",
+    "date": "2026-05-14",
+    "pay": 155
+  },
+  {
+    "title": "Investment Banking Expert",
+    "industry": "Finance",
+    "date": "2026-05-05",
+    "pay": 115
+  },
+  {
+    "title": "Voice AI Research Participant",
+    "industry": "AI Research",
+    "date": "2026-06-01",
+    "pay": 15
+  },
+  {
+    "title": "Emergency Medicine Expert",
+    "industry": "Science/Healthcare",
+    "date": "2026-05-08",
+    "pay": 155
+  },
+  {
+    "title": "Legal Expert \u2014 Compliance",
+    "industry": "Legal",
+    "date": "2026-05-18",
+    "pay": 125
+  },
+  {
+    "title": "Software Expert (CAD)",
+    "industry": "Engineering",
+    "date": "2026-02-01",
+    "pay": 50
+  },
+  {
+    "title": "CAD tools Expert",
+    "industry": "Engineering",
+    "date": "2025-06-01",
+    "pay": 45
+  },
+  {
+    "title": "Engineering Expert (PhD)",
+    "industry": "Engineering",
+    "date": "2025-11-01",
+    "pay": 70
+  },
+  {
+    "title": "Expert Model Trainer",
+    "industry": "AI Research",
+    "date": "2025-08-01",
+    "pay": 95
+  },
+  {
+    "title": "Statistics Expert",
+    "industry": "Science/Mathematics",
+    "date": "2026-01-15",
+    "pay": 80
+  },
+  {
+    "title": "Lawyers",
+    "industry": "Legal",
+    "date": "2025-12-10",
+    "pay": 90
+  },
+  {
+    "title": "Mathematicians",
+    "industry": "Science/Mathematics",
+    "date": "2025-10-05",
+    "pay": 85
+  },
+  {
+    "title": "Psychologists",
+    "industry": "Social Science",
+    "date": "2025-09-20",
+    "pay": 75
+  },
+  {
+    "title": "Radiologist",
+    "industry": "Science/Healthcare",
+    "date": "2025-07-15",
+    "pay": 140
+  }
+]
